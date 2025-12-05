@@ -43,5 +43,4 @@ Install dependencies:
 pip install pandas numpy scikit-learn tensorflow matplotlib
 
 Run the script:
-
 python model.py
